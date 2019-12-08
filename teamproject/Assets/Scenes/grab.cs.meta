@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 37f56c2dde9824472bcbd0483044de4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waterword: {instanceID: 0}
+  - ropeword: {instanceID: 0}
+  - grassword: {instanceID: 0}
+  - tangerineword: {instanceID: 0}
+  - rockword: {instanceID: 0}
+  - fireword: {fileID: 100000, guid: 057a0828d381e884e8e50080df247cc0, type: 3}
+  - myHand: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
